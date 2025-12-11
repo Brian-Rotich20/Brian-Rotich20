@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Rotich</h1>
 <h3 align="center">Am a passionate software developer</h3>
 
-- 🌱 I’m currently learning **next js and django. Then dive into ruby.**
+- 🌱 I’m currently learning **DevOps. And Backend**
 
 - 💬 Ask me about anything! **Am always available**
 
